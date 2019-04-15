@@ -4,3 +4,5 @@
 
 $$$$$$$$$$$$$$$$$$$$JS
 summy
+Adding the image ; 
+![image.png](images/HRTalent.png)
